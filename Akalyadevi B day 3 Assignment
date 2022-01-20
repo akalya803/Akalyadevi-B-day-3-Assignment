@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>My resume</title>
+<body>
+<h1>Resume details</h1>
+<p>
+I am Akalyadevi.B,now I m currently pursuing in ABC college.
+I m interested in coding and also I m interested to create a 
+new web page or a web site by my own
+</p>
+<pre>My ambition to place in a top MNC company</pre>
+<form action="submitted.html"method="get">
+<input type="text"placeholder="Name"><br>
+<input type="text"placeholder="Class"><br>
+<input type="text"placeholder="reg no"<br>
+</br>
+<label for="dob">Date of birth</label>
+<input type="date"id="dob"name"dob">
+<input type="Submit"value="send">
+<label for=" ">Gender</label>
+<input type="radio"name="gender">
+<input type="radio"value="Male">Male<br>
+<input type="radio"value="Female">Female<br>
+<input type="color">
+</form>
+<h3>Table</h3>
+<table border="1">
+<tr>
+<td>year</td>
+<td>Cgpa</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>8.54</td>
+</tr>
+</body>
+</head>
+</html>
+</
